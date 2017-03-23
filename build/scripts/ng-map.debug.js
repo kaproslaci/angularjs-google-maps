@@ -1635,7 +1635,7 @@ angular.module('ngMap', []);
     };
   };
 
-  angular.module('ngMap').directive('map', [mapDirective]);
+  //angular.module('ngMap').directive('map', [mapDirective]);
   angular.module('ngMap').directive('ngMap', [mapDirective]);
 })();
 
